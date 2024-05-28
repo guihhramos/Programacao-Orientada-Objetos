@@ -27,11 +27,11 @@ public class Carro implements Veiculo {
 
     @Override
     public void acelerar() {
-        System.out.println("Vruum!");
+        System.out.println("(vruuum!) O " + this.modelo + " esta acelerando");
     }
 
     @Override
     public void frear() {
-        System.out.println("Screech!");
+        System.out.println("(Screech!) O " + this.modelo + " esta freando");
     }
 }

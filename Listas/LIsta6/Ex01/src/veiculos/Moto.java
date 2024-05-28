@@ -27,11 +27,11 @@ public class Moto {
 
     
     public void acelerar() {
-        System.out.println("Vruuum!");
+        System.out.println("(ruuum!) O " + this.marca + " esta acelerando ");
     }
 
     
     public void frear() {
-        System.out.println("Brake!");
+        System.out.println("(Screech!) O " + this.marca + " esta freando ");
     }
 }
