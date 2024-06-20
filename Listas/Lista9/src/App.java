@@ -21,6 +21,6 @@ public class App {
         System.out.println();
         standUp.comecarEvento();
         standUp.comecarEvento("O único cabeleireiro da Bíblia foi? Ab(re)salão! HAHAHAHA");
-
+        System.out.println();
     }
 }
